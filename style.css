@@ -1,0 +1,17 @@
+html {
+    font-size: 20px;
+}
+
+.filme {
+    background-color: #eceff1;
+    padding: 20px;
+    margin: 15px;
+}
+
+h1{
+    padding: 0 20px;
+}
+
+h1, .filme h3 {
+    color: rgb(255, 108, 108);
+}
