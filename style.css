@@ -17,4 +17,6 @@ h1, .filme h3 {
     color: rgb(255, 108, 108);
 }
 
-
+.estreia {
+    background: orange;
+}
